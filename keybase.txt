@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/0xdotexe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://0xdotexe.github.io
+  * I am 0xdotexe (https://keybase.io/0xdotexe) on keybase.
+  * I have a public key ASCGH0FhmumnSuezKfdofg4raxjgtlGlP1xup32UJR5LTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fbcb89be1e186f8ee8ff1310f363eaca9168747183b344ee1d112b531c4479650a",
+      "host": "keybase.io",
+      "kid": "0120861f41619ae9a74ae7b329f7687e0e2b6b18e0b651a53f5c6ea77d94251e4b4f0a",
+      "uid": "141ef8178696df84cfdce74093b44b19",
+      "username": "0xdotexe"
+    },
+    "merkle_root": {
+      "ctime": 1582197128,
+      "hash": "b7bc11ae9c033be61f85649585c24bf8dda3a9966c1b78b2805eafd1254292add20834070db81f3dc8cba86c7721e39e592ee3cd756158aa1c4407a6d0065f01",
+      "hash_meta": "047626f3cba3eb90e917ae648e6f5fbea1a1ae61cfd8dc39b5e45d768ff3f7e1",
+      "seqno": 14663972
+    },
+    "service": {
+      "entropy": "Lq1bPXo49HvSnIfnOMgAtnJn",
+      "hostname": "0xdotexe.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1582197691,
+  "expire_in": 504576000,
+  "prev": "8fecd5272872f1d6ac58308df137658ed95f2a97263f4ab1a4e6c619d34b35ac",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghh9BYZrpp0rnsyn3aH4OK2sY4LZRpT9cbqd9lCUeS08Kp3BheWxvYWTESpcCF8Qgj+zVJyhy8dasWDCN8TdljtlfKpcmP0qxpObGGdNLNazEILtqxdHCQRdWFjAnl+8UEhFdxkOXR7rEJS4kmZpqMa5LAgHCo3NpZ8RAz88VQm2V2/aeqt1wM4HbSPHoLI5n/YNAZ4RiefgySaLCGMDwtCBSlV3VXlmUWUyzXdO3E9Wk6A96/twC8fYPAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINLWQviPODAmsNcuecD8FerTQZVI9QJL65toNM3v4UIXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0xdotexe
+
+==================================================================
