@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarvagya Sagar</title>
+    <link>/</link>
+    <description>Recent content on Sarvagya Sagar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yours truly</title>
+      <link>/about/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The name&amp;rsquo;s Sarvagya Sagar . He is a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a hacker. He enjoys never being satisfied with his programming, traveling, bhojpuri songs &amp;amp; movies, teaching, burger, mathematics and occasionally sketching with touch of mellow smoothness. Stab forks into your eyeballs looking at his Twitter handler to take a closer look at his work history and whatnot. Technology should work for people, not the other way around.</description>
+    </item>
+    
+  </channel>
+</rss>
